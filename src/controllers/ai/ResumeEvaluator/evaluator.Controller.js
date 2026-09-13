@@ -133,7 +133,9 @@ const evaluatorResume = async(jdData,resumeData)=>{
             email: '', 
             totalExperience: '', 
             matchScore: 0, 
-            atsScore: 0, 
+            relevance: 0(%), 
+            skillsdensity:0(%),
+            experienceMatch:0(%)
             selectionRecommendation: "", 
             matchQuality: 'Poor', 
             matchedSkills: [], 
