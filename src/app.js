@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://resume-iq-frontend-zeta.vercel.app",
+    origin: "https://resumeiqai.gyanimeter.co.in/",
   })
 );
 
