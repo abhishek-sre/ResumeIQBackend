@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://resume-iq-frontend-zeta.vercel.app",
   })
 );
 
