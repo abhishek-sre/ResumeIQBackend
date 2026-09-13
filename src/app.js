@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://resumeiqai.gyanimeter.co.in/",
+    origin: "https://resumeiqai.gyanimeter.co.in"
   })
 );
 
