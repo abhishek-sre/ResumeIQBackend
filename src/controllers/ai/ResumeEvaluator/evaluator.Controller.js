@@ -141,6 +141,7 @@ const evaluatorResume = async(jdData,resumeData)=>{
             matchedSkills: [], 
             missingSkills: [], 
             experienceMatch: '', 
+            currentDesignation: '', 
             strengths: [], 
             gaps: [], 
             resion:"detail in 80 words why selection/rejection",
